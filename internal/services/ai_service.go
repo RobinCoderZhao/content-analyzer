@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/content-analyzer/internal/config"
-	"github.com/content-analyzer/internal/models"
+	"github.com/RobinCoderZhao/content-analyzer/internal/config"
+	"github.com/RobinCoderZhao/content-analyzer/internal/models"
 )
 
 type AIService interface {

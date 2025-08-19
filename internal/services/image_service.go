@@ -13,8 +13,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/content-analyzer/internal/config"
-	"github.com/content-analyzer/internal/models"
+	"github.com/RobinCoderZhao/content-analyzer/internal/config"
+	"github.com/RobinCoderZhao/content-analyzer/internal/models"
 )
 
 type ImageService interface {
