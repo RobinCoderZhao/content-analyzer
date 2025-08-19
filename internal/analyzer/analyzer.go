@@ -11,9 +11,9 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/content-analyzer/internal/config"
-	"github.com/content-analyzer/internal/models"
-	"github.com/content-analyzer/internal/services"
+	"github.com/RobinCoderZhao/content-analyzer/internal/config"
+	"github.com/RobinCoderZhao/content-analyzer/internal/models"
+	"github.com/RobinCoderZhao/content-analyzer/internal/services"
 )
 
 type ContentAnalyzer struct {

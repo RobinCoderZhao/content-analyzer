@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/content-analyzer/internal/analyzer"
-	"github.com/content-analyzer/internal/config"
-	"github.com/content-analyzer/internal/models"
-	"github.com/content-analyzer/internal/report"
+	"github.com/RobinCoderZhao/content-analyzer/internal/analyzer"
+	"github.com/RobinCoderZhao/content-analyzer/internal/config"
+	"github.com/RobinCoderZhao/content-analyzer/internal/models"
+	"github.com/RobinCoderZhao/content-analyzer/internal/report"
 )
 
 func main() {
